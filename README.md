@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Final-year BTech Computer Science student with a strong foundation in frontend and backend technologies.
+Pro􀏐icient in building responsive user interfaces using HTML, CSS, JavaScript, and React, along with backend
+expertise in Node.js, Express, and MongoDB. Experienced in developing full-stack projects and skilled in version
+control with Git. A quick learner with a passion for creating ef􀏐icient, user-centric solutions and a keen interest in
+exploring emerging technologies.
 
 
 
