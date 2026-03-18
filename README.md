@@ -1,9 +1,24 @@
-# 💫 About Me:
-Final-year BTech Computer Science student with a strong foundation in frontend and backend technologies.
-Pro􀏐icient in building responsive user interfaces using HTML, CSS, JavaScript, and React, along with backend
-expertise in Node.js, Express, and MongoDB. Experienced in developing full-stack projects and skilled in version
-control with Git. A quick learner with a passion for creating ef􀏐icient, user-centric solutions and a keen interest in
-exploring emerging technologies.
+Hi 👋, I'm Adwaid
+
+I'm a Full Stack Developer specializing in the MERN stack, focused on building scalable and real-time web applications.
+
+💻 Tech Stack:
+React, Node.js, Express, MongoDB, Socket.io
+
+🚀 What I’ve built:
+- Real-time Chat Application (1-1 & Group Chat)
+- Uber Clone (Full-stack)
+- Cloud Storage System
+- Employee Management System
+
+📚 Currently Learning:
+- Data Structures & Algorithms (LeetCode)
+- System Design & Backend Optimization
+
+🎯 Career Goal:
+To become a highly skilled software engineer and work on impactful, large-scale applications.
+
+📫 Reach me: [adwaidpaloli01@gmail.com]
 
 
 
