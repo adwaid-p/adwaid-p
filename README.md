@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 Hi 👋, I'm Adwaid
 
 I'm a Full Stack Developer specializing in the MERN stack, focused on building scalable and real-time web applications.
