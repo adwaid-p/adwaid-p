@@ -18,7 +18,7 @@ React, Node.js, Express, MongoDB, Socket.io
 🎯 Career Goal:
 To become a highly skilled software engineer and work on impactful, large-scale applications.
 
-📫 Reach me: [adwaidpaloli01@gmail.com]
+📫 Reach me: adwaidpaloli01@gmail.com
 
 
 
