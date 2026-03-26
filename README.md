@@ -57,7 +57,7 @@
 
 | | |
 |---|---|
-| [![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/adwaidpaloli01?theme=gruvbox&show=graph)](https://leetcode.com/adwaidpaloli01) | [![GitHub Streak](https://streak-stats.demolab.com?user=adwaid-p&theme=gruvbox&hide_border=true&border_radius=12&ring=F2C94C&fire=F2994A&currStreakLabel=F2C94C)](https://github.com/adwaid-p) |
+| [![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/Adwaid_p?theme=gruvbox&show=graph)](https://leetcode.com/adwaidpaloli01) | [![GitHub Streak](https://streak-stats.demolab.com?user=adwaid-p&theme=gruvbox&hide_border=true&border_radius=12&ring=F2C94C&fire=F2994A&currStreakLabel=F2C94C)](https://github.com/adwaid-p) |
 | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaid-p&layout=compact&theme=gruvbox&hide_border=true&langs_count=10&include_all_commits=true)](https://github.com/adwaid-p) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaid-p&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/adwaid-p) |
 
 [![](https://capsule-render.vercel.app/api?type=rect&color=C49B6A&height=2&section=header)](https://github.com/adwaid-p)
